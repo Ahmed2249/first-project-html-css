@@ -1,0 +1,71 @@
+/* general */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: ;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+:root{
+    --color: ;
+}
+
+/* ./general */
+
+/* margin */
+.mg-b-5{
+    margin-bottom: 5px;
+}
+
+.mg-b-10{
+    margin-bottom: 10px;
+}
+
+.mg-b-15{
+    margin-bottom: 15px;
+}
+
+.mg-b-20{
+    margin-bottom: 20px;
+}
+
+.mg-b-25{
+    margin-bottom: 25px;
+}
+/* ./margin */
+
+/* text-transform */
+.uppercase{
+    text-transform: uppercase;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+
+/* ./text-transform */
+
+/* float */
+.flot-left{
+    float: left;
+}
+
+.overflow-hidden{
+    overflow: hidden;
+}
+
+.clear{
+    clear: both;
+}
+/* ./float */
